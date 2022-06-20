@@ -13,6 +13,7 @@ By joining, you can expect the following:
 * 🏗️ Finding people for building _open source_ projects together and consult with, from idea to finish.  
 * ❓ Getting a helping hand now and then from eachother maintaining your open source project.  
 * 🧰 Enjoy building and using commonly built helpers, tools, and starters to get going with Rust quickly and effectively.  
+* 👷‍♀️ Work is offline, async, distributed and as time permits (because life happens too). We may meet (virtually or f2f) from time to time.
 
 
 ## Joining ⤵️
