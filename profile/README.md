@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/107847928?s=400&u=8b6bbcbcfee2caf56ab9dee259430df6040aff0d&v=4" width="220"/>
-</p>
-
 # Rusty Ferris Club 🦀
 
 A computer club for people who love Rust :crab:. We're also building stuff, and teaching each other stuff.
