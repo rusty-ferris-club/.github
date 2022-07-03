@@ -1,6 +1,6 @@
 # Rusty Ferris Club 🦀
 
-A computer club for people who love Rust :crab:. We're also building stuff, and teaching each other stuff.
+A computer club for people who love Rust :crab:. We're building open source projects in Rust, and teaching each other stuff.
 
 ## Welcome to the Club! 👋
 
@@ -11,8 +11,8 @@ By joining, you can expect the following:
 
 * 🧑‍🤝‍🧑 Having an available group of friends to meet and chat about topics in Rust.  
 * 🔮 Find mentors or volunteer as mentor for other members
-* 🏗️ Finding people for building _open source_ projects together and consult with, from idea to finish.  
-* ❓ Getting a helping hand now and then from eachother maintaining your open source project.  
+* 🏗️ Finding people for building or contributing to Rust _open source_ projects together and consult with, from idea to finish.  
+* ❓ Getting a helping hand now and then from eachother maintaining your open source project (as long as it's under the `rusty-ferris-club` org).  
 * 🧰 Enjoy building and using commonly built helpers, tools, and starters to get going with Rust quickly and effectively.  
 * 👷‍♀️ Work is offline, async, distributed and as time permits (because life happens too). We may meet (virtually or f2f) from time to time.
 
